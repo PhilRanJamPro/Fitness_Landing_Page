@@ -74,7 +74,7 @@ img{
 
 .hero {
   background: url(../images/showcase-image.jpg) no-repeat center center/cover;
-  height: 100vh;
+  height: 1280px;
   position: relative;
   color: rgb(255, 255, 255);
 }
